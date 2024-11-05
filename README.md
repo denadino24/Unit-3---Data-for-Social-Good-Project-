@@ -29,8 +29,8 @@ Dataset: https://docs.google.com/spreadsheets/d/1yoAraFASSDRoGjMgJOnv-Vgzo-mKiMd
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![Screenshot 2024-11-05 12 05 53 AM](https://github.com/user-attachments/assets/e11bbc01-175f-453a-98aa-645543810a7f)
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+In this project of creating a user data story, we had a ceo that was looking for college graduates related in the art fields. With this data program, we can  implement methods that allow sets of data to be traversed and organized so that only necessary information is printed for the user. The program also allows user input and allows them to choose which major they want. This program allows the amount of college graduates in certain majors and ages to be seen so more opportunities can be given to them.
